@@ -1,18 +1,156 @@
-# React + Vite
+# 🌐 Kalyani Manze - Portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📖 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This is a modern and responsive Student Portfolio Website built using React.js. The portfolio showcases my academic background, technical skills, projects, achievements, and career aspirations as a Computer Engineering Student.
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🚀 Project Preview
 
-Note: This will impact Vite dev & build performances.
+### 🏠 Home Page
 
-## Expanding the ESLint configuration
+![Home Page]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1251" height="715" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/445cca5c-ede4-48cb-9249-b4e38c8b5fe4" />
+
+<img width="1266" height="719" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/5af52754-fc48-46ed-ae59-202acc5475da" />
+
+<img width="1262" height="724" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/9f7bc50b-0deb-4c1e-86d7-dbfd055eca16" />
+
+<img width="1251" height="715" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/a24c24f4-e4e0-4718-b85f-2c89109ed1c6" />
+
+
+---
+
+### 👩 About Page
+
+![About Page]
+
+<img width="1246" height="719" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/3b5d33f8-9f82-49cd-855d-e16b9519eba1" />
+
+
+<img width="1249" height="728" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/ca580232-b63c-46bd-b546-747b768d5586" />
+
+<img width="1366" height="768" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/5f6a8ee9-9440-4c11-b00a-3b911132ee63" />
+
+<img width="1366" height="768" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/6a656433-ec86-4906-8fa2-66ed34e07c2d" />
+
+
+<img width="1366" height="768" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/002272c8-bab0-482f-9136-d6ef1f34f1f5" />
+
+---
+
+### 💼 Projects Page
+
+![Projects Page]
+
+<img width="1234" height="715" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/a236d344-251f-4425-8d90-39d0f52a6619" />
+
+
+
+<img width="1246" height="719" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/e8f36244-18b0-4c5a-8230-03fe58e3277f" />
+
+<img width="1226" height="719" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/669776bc-3a17-4586-980c-36b40c712703" />
+
+<img width="1229" height="719" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/f4345cea-7681-467d-b7ac-609a78ea58de" />
+
+<img width="1366" height="768" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/d2f9c539-0473-4149-8276-885c5b47aaeb" />
+
+---
+
+### 📞 Contact Page
+
+![Contact Page]
+
+<img width="1272" height="711" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/861215af-027d-4dcb-b61d-f2c62451f1bd" />
+
+<img width="1248" height="728" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/8e5b4aab-f238-4ecc-a52f-ddba1b233be7" />
+
+<img width="1279" height="724" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/0a35df09-a6eb-4c61-982d-ef9b857f3a12" />
+
+
+---
+
+## ✨ Features
+
+- Modern Professional UI
+- Fully Responsive Design
+- React Router Navigation
+- Home Page Hero Section
+- About Me Section
+- Projects Showcase
+- Skills Section
+- Contact Information
+- Smooth User Experience
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+
+### Tools
+
+- VS Code
+- Git
+- GitHub
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── App.css
+│
+└── README.md
+```
+
+---
+
+## 👩‍💻 About Me
+
+Hi, I'm Kalyani Manze, a Computer Engineering Student passionate about software development, web technologies, and innovation.
+
+My goal is to build impactful digital solutions and continuously improve my technical skills.
+
+---
+
+## 🎯 Future Enhancements
+
+- Resume Download Feature
+- Dark Mode
+- Animations
+- Backend Integration
+- Contact Form Functionality
+
+---
+
+## 📧 Contact
+
+- Email: your-email@example.com
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please give it a ⭐ on GitHub.

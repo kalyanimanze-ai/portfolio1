@@ -1,6 +1,7 @@
 import Hero from "../components/Hero";
 import Skills from "../components/Skills";
 import EducationTimeline from "../components/EducationTimeline";
+import profile from "../assets/profile.jpeg";
 
 function Home() {
   return (
@@ -33,8 +34,9 @@ function Home() {
           }}
         >
           <img
-            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
-            alt=""
+            //src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+            src = {profile} 
+            alt="Profile"
             style={{
               width: "450px",
               borderRadius: "20px",

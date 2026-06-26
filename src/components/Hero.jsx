@@ -1,3 +1,5 @@
+//import profile from "../assets/profile.jpeg";
+
 function Hero() {
   return (
     <section
@@ -33,7 +35,7 @@ function Hero() {
         </h1>
 
         <p
-          style={{
+          style={{ 
             marginTop: "25px",
             lineHeight: "1.8",
             color: "#cbd5e1",
@@ -81,17 +83,8 @@ function Hero() {
         </div>
       </div>
 
-      <div>
-        <img
-          src="https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-          alt="student"
-          style={{
-            width: "450px",
-            borderRadius: "25px",
-            boxShadow: "0 10px 40px rgba(0,0,0,0.4)",
-          }}
-        />
-      </div>
+
+      
     </section>
   );
 }

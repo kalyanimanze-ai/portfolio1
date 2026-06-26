@@ -1,3 +1,5 @@
+import profile from "../assets/profile.jpeg";
+
 import EducationTimeline from "../components/EducationTimeline";
 
 function About() {
@@ -46,8 +48,9 @@ function About() {
           }}
         >
           <img
-            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-            alt=""
+           // src="https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+           src= {profile}
+           alt=""
             style={{
               width: "400px",
               borderRadius: "20px",

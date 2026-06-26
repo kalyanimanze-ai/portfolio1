@@ -16,7 +16,7 @@ This is a modern and responsive Student Portfolio Website built using React.js. 
 
 <img width="1251" height="715" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/445cca5c-ede4-48cb-9249-b4e38c8b5fe4" />
 
-<img width="1266" height="719" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/5af52754-fc48-46ed-ae59-202acc5475da" />
+<img width="1224" height="724" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/cdd6f5ee-4247-41ed-80ab-81948743a54e" />
 
 <img width="1262" height="724" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/9f7bc50b-0deb-4c1e-86d7-dbfd055eca16" />
 
@@ -29,7 +29,7 @@ This is a modern and responsive Student Portfolio Website built using React.js. 
 
 ![About Page]
 
-<img width="1246" height="719" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/3b5d33f8-9f82-49cd-855d-e16b9519eba1" />
+<img width="1238" height="719" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/d6aa0fed-639b-4915-be5c-9d5c3f1d2cc3" />
 
 
 <img width="1249" height="728" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/ca580232-b63c-46bd-b546-747b768d5586" />
